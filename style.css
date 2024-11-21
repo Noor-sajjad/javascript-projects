@@ -1,0 +1,26 @@
+body{
+    background-color: azure;
+}
+        div{
+            background-color: aqua;
+            width: 100px;
+            height: 100px;
+            border-radius: 10px;
+            border: 2px solid;
+            margin: 20px;
+            padding: 20px;
+        
+        }
+        #btn{
+            background-color: bisque;
+            padding: 10px;
+            border-radius: 5px;
+            width: 100px;
+            margin-left: 20px;
+        }
+        #demo{
+            color: blueviolet;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-decoration: underline;
+    
+        }
